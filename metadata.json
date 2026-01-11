@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lenoir Restaurant Austin",
+  "description": "A sophisticated, responsive React application for Lenoir Restaurant, featuring an AI Sommelier assistant, interactive menus, and an elegant seasonal aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
